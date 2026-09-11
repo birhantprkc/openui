@@ -31,6 +31,7 @@ on:
           - observability
           - observability-cloud
           - devtools
+          - server
 
 jobs:
   publish:
